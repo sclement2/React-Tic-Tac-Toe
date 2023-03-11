@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^4.0.0"
+  },
+  "main": "/index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "name": "react-tic-tac-toe",
+  "description": "You’ve created a tic-tac-toe game that:\n Lets you play tic-tac-toe,\n Indicates when a player has won the game,\n Stores a game’s history as a game progresses,\n Allows players to review a game’s history and see previous versions of a game’s board."
+}
